@@ -1,0 +1,9 @@
+[10-Sep-2022 10:10:52 UTC] PHP Fatal error:  Cannot declare class WorkorderModel, because the name is already in use in /home/demo3sjain/public_html/ATM2/application/models/production/Work_order_Model.php on line 129
+[10-Sep-2022 10:17:03 UTC] PHP Fatal error:  Cannot declare class WorkorderModel, because the name is already in use in /home/demo3sjain/public_html/ATM2/application/models/production/Work_order_Model.php on line 129
+[23-Sep-2022 11:26:40 UTC] PHP Fatal error:  Cannot redeclare Report::released() in /home/demo3sjain/public_html/ATM2/application/controllers/planner/Report.php on line 38
+[24-Sep-2022 13:35:31 UTC] PHP Fatal error:  Can't use method return value in write context in /home/demo3sjain/public_html/ATM2/application/views/include/left-menu.php on line 161
+[12-Oct-2022 10:39:44 UTC] PHP Fatal error:  Can't use method return value in write context in /home/demo3sjain/public_html/ATM2/application/views/include/left-menu.php on line 2
+[21-Oct-2022 06:57:47 UTC] PHP Fatal error:  Cannot use [] for reading in /home/demo3sjain/public_html/ATM2/application/models/production/ProProjectModel.php on line 208
+[21-Oct-2022 06:57:47 UTC] PHP Fatal error:  Cannot use [] for reading in /home/demo3sjain/public_html/ATM2/application/models/production/ProProjectModel.php on line 208
+[29-Oct-2022 07:35:32 UTC] PHP Fatal error:  Can't use function return value in write context in /home/demo3sjain/public_html/ATM2/application/controllers/planner/Workorder.php on line 50
+[05-Nov-2022 08:29:16 UTC] PHP Fatal error:  Cannot redeclare Workorder::getWorkorderDoc() in /home/demo3sjain/public_html/ATM2/application/controllers/planner/Workorder.php on line 61
